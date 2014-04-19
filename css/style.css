@@ -1,0 +1,18 @@
+#links {
+    color: black;
+    text-align: center;
+}
+
+.mainLink {
+    margin: 50px;
+}
+
+h1, h2, h3, h4 {
+    color: RED;
+}
+
+.thumb {
+    height: 200px;
+    border: 1px solid #000;
+    margin: 10px 5px 0 0;
+}
